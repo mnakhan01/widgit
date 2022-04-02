@@ -1,6 +1,6 @@
 feature1 implementation
 
 feature2 implementation
-
+adding multiple weights
 feature3 implementation
 
